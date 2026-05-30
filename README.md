@@ -96,43 +96,6 @@ class SarveinRao:
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <a href="https://github-readme-stats.vercel.app/api?username=SarveinRao&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SarveinRao&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
-  </a>
-  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=SarveinRao&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SarveinRao&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
-  </a>
-</div>
-
----
-
-## 🔥 Streak Stats
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=SarveinRao&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" alt="GitHub Streak"/>
-</div>
-
----
-
-## 📈 Activity Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SarveinRao&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" width="100%" alt="Activity Graph"/>
-</div>
-
----
-
-## 🏆 Trophy Wall
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SarveinRao&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" alt="Trophies"/>
-</div>
-
----
-
 ## 💼 Work Experience
 
 <details>
@@ -181,22 +144,6 @@ class SarveinRao:
 | [**Procurement Order Tracking System (POTS)**](https://github.com/SarveinRao) | `Java` `OOP` `Swing GUI` | Led the Sales Manager module — GUI components for inventory checking, requisition forms, purchase order generation, stock monitoring, and report generation |
 | [**Credit Risk Classification**](https://github.com/SarveinRao) | `R` `Machine Learning` | Applied logistic regression, decision tree, random forest, and linear regression to classify customer credit risk from real financial data |
 | [**E-Library Database Management System**](https://github.com/SarveinRao) | `SQL` | Designed and implemented a relational database for book inventory, user registration, lending records, and overdue tracking |
-
-</div>
-
----
-
-## 🎖️ Achievements
-
-<div align="center">
-
-| 🏅 | Achievement | Details |
-|---|---|---|
-| 🎓 | **Dean's List Candidate** | GPA 3.59 — BSc (Hons) CS Data Analytics @ APU |
-| 🏗️ | **Foundation CGPA** | 3.67 — Foundation in Computing & Technology, APU |
-| 📜 | **SPM Excellence** | 5A's 3B's 1C — Science Stream, SMK Dato' Ibrahim Yaacob |
-| ☁️ | **Cloud Deployment** | Built and deployed production AWS Lambda + RDS pipelines at AMIC internship |
-| 🔬 | **IoT Integration** | End-to-end PostgreSQL + IoT sensor integration for live aircraft manufacturing monitoring |
 
 </div>
 
